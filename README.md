@@ -10,9 +10,9 @@ Custom code I developed during my web developer internship (August–October 202
 
 ## Preview
 
-![Home page – hero banner](screenshots/accueil.png)
+![Home page – hero banner](screenshots/Accueil.png)
 
-![“Nos Pôles d'activités” section](screenshots/poles-activites.png)
+![“Nos Pôles d'activités” section](screenshots/pole-activites.png)
 
 ## What I did
 
